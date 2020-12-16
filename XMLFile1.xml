@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Database Name="Класи персонажів гри World Of WarCraft">
+  <Attributes Caption="Характеристики">
+    <Attribute ID="0" Caption="Може лікувати інших" />
+    <Attribute ID="1" Caption="Може танковати" />
+    <Attribute ID="2" Caption="Завдає сильної шкоди" />
+    <Attribute ID="3" Caption="Має вихованця" />
+    <Attribute ID="4" Caption="Добре контролює противника" />
+    <Attribute ID="5" Caption="Підсилює групу" />
+    <Attribute ID="6" Caption="Носить потужну броню" />
+    <Attribute ID="7" Caption="Виконує різні ролі" />
+    <Attribute ID="8" Caption="Завдає дальній шкоди" />
+    <Attribute ID="9" Caption="Завдає ближній шкоди" />
+    <Attribute ID="10" Caption="Носить щит" />
+    <Attribute ID="11" Caption="Витрачає ману" />
+  </Attributes>
+  <Objects Caption="Рекомендовані класи">
+    <Object Name="Друїд" Attributes="0, 1, 2, 4, 5, 6, 7, 8, 9, 11" />
+    <Object Name="Паладин" Attributes="0, 1, 4, 5, 6, 7, 9, 10, 11" />
+    <Object Name="Шаман" Attributes="0, 2, 6, 8, 9, 10, 11" />
+    <Object Name="Жрець" Attributes="0, 4, 5, 8, 11" />
+    <Object Name="Лицар смерті" Attributes="1, 2, 3, 6, 9" />
+    <Object Name="Воїн" Attributes="1, 2, 6, 9, 10" />
+    <Object Name="Чорнокнижник" Attributes="2, 3, 4, 8, 11" />
+    <Object Name="Мисливець" Attributes="2, 3, 8, 11" />
+    <Object Name="Маг" Attributes="2, 4, 5, 8, 11" />
+    <Object Name="Розбійник" Attributes="2, 4, 9" />
+  </Objects>
+</Database>

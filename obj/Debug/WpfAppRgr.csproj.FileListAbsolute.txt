@@ -1,0 +1,14 @@
+C:\Users\John Locke\source\repos\WpfAppRgr\bin\Debug\WpfAppRgr.exe.config
+C:\Users\John Locke\source\repos\WpfAppRgr\bin\Debug\WpfAppRgr.exe
+C:\Users\John Locke\source\repos\WpfAppRgr\bin\Debug\WpfAppRgr.pdb
+C:\Users\John Locke\source\repos\WpfAppRgr\obj\Debug\WpfAppRgr.csprojAssemblyReference.cache
+C:\Users\John Locke\source\repos\WpfAppRgr\obj\Debug\MainWindow.g.cs
+C:\Users\John Locke\source\repos\WpfAppRgr\obj\Debug\App.g.cs
+C:\Users\John Locke\source\repos\WpfAppRgr\obj\Debug\WpfAppRgr_MarkupCompile.cache
+C:\Users\John Locke\source\repos\WpfAppRgr\obj\Debug\WpfAppRgr_MarkupCompile.lref
+C:\Users\John Locke\source\repos\WpfAppRgr\obj\Debug\MainWindow.baml
+C:\Users\John Locke\source\repos\WpfAppRgr\obj\Debug\WpfAppRgr.g.resources
+C:\Users\John Locke\source\repos\WpfAppRgr\obj\Debug\WpfAppRgr.Properties.Resources.resources
+C:\Users\John Locke\source\repos\WpfAppRgr\obj\Debug\WpfAppRgr.csproj.GenerateResource.cache
+C:\Users\John Locke\source\repos\WpfAppRgr\obj\Debug\WpfAppRgr.exe
+C:\Users\John Locke\source\repos\WpfAppRgr\obj\Debug\WpfAppRgr.pdb
